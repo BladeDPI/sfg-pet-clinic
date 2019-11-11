@@ -42,7 +42,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:github.com/BladeDPI/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/BladeDPI/sfg-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
    </scm>
 
