@@ -43,21 +43,8 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-        <repository>
-            <id>central</id>
-            <name>plugins-releases</name>
-            <url>http://serverip:8081/artifactory/plugins-release-local</url>
-        </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>plugins-snapshot</name>
-            <url>http://serverip:8081/artifactory/plugins-snapshot-local</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <scm>
-        <developerConnection>scm:git:https://github.com/BladeDPI/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:github.com/BladeDPI/sfg-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
    </scm>
 
